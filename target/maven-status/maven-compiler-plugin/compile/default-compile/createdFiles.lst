@@ -1,0 +1,7 @@
+cl/msaavedra/dofus/service/AccountService.class
+cl/msaavedra/dofus/DofusApplication.class
+cl/msaavedra/dofus/datasource/PostgresDatasource.class
+cl/msaavedra/dofus/dao/AccountDataAccessService.class
+cl/msaavedra/dofus/model/Account.class
+cl/msaavedra/dofus/dao/AccountDao.class
+cl/msaavedra/dofus/api/AccountController.class

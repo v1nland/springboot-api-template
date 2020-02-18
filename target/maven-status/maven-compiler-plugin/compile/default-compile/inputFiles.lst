@@ -1,0 +1,7 @@
+/home/msaavedra/Desktop/springboot-api-template/src/main/java/cl/msaavedra/dofus/dao/AccountDao.java
+/home/msaavedra/Desktop/springboot-api-template/src/main/java/cl/msaavedra/dofus/dao/AccountDataAccessService.java
+/home/msaavedra/Desktop/springboot-api-template/src/main/java/cl/msaavedra/dofus/api/AccountController.java
+/home/msaavedra/Desktop/springboot-api-template/src/main/java/cl/msaavedra/dofus/model/Account.java
+/home/msaavedra/Desktop/springboot-api-template/src/main/java/cl/msaavedra/dofus/DofusApplication.java
+/home/msaavedra/Desktop/springboot-api-template/src/main/java/cl/msaavedra/dofus/datasource/PostgresDatasource.java
+/home/msaavedra/Desktop/springboot-api-template/src/main/java/cl/msaavedra/dofus/service/AccountService.java
